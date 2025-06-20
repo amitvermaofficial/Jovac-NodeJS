@@ -1,0 +1,9 @@
+{
+  "name": "Lect-5",
+  "version": "1.0.0",
+  "main": "index.mjs",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
